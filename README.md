@@ -1,4 +1,6 @@
 # Advent of Code
-JavaScript solutions to each year of the Advent of Code challenge
+JavaScript solutions to for the 2023 Advent of Code challenge
 
 https://adventofcode.com
+
+
